@@ -1,2 +1,1 @@
-# Guvi_project
-Project done in training for learning AI
+#Real-Time Cricket Insights & SQL-Based Analytics
